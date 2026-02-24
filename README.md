@@ -1,6 +1,7 @@
 # claudeload
 
 A simple tool to inject custom JavaScript plugins into the Claude Code Bun context.
+![claudeload](https://github.com/user-attachments/assets/ea9ef2ea-7373-4401-95cd-a603a1b2d340)
 
 ## Install (one‑line)
 
