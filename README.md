@@ -6,12 +6,12 @@ A simple tool to inject custom JavaScript plugins into the Claude Code Bun conte
 
 **macOS/Linux**
 ```/dev/null/install.sh#L1-1
-curl -fsSL https://raw.githubusercontent.com/LabGuy94/claudeload/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/LabGuy94/claudeload/master/install.sh | sh
 ```
 
 **Windows (PowerShell)**
 ```/dev/null/install.ps1#L1-1
-iwr -useb https://raw.githubusercontent.com/LabGuy94/claudeload/main/install.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/LabGuy94/claudeload/master/install.ps1 | iex
 ```
 
 ## Build from source
