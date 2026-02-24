@@ -11,7 +11,7 @@ curl -fsSL https://raw.githubusercontent.com/LabGuy94/claudeload/master/install.
 
 **Windows (PowerShell)**
 ```/dev/null/install.ps1#L1-1
-iwr -useb https://raw.githubusercontent.com/LabGuy94/claudeload/master/install.ps1 | iex
+iex "& { $(iwr -useb https://raw.githubusercontent.com/LabGuy94/claudeload/master/install.ps1) } -AddToPath"
 ```
 
 ## Build from source
