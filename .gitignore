@@ -1,0 +1,12 @@
+#build
+build/
+
+#claude
+.claude/
+
+# Go build cache
+*.test
+*.out
+
+# macOS
+.DS_Store
