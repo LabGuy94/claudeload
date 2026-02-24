@@ -37,3 +37,6 @@ On install, `claudeload-plugins/` is created next to the `claude` binary. Any `.
 - For `extract --beautify`, `js-beautify` is required: https://www.npmjs.com/package/js-beautify
 - This tool modifies the Claude Code executable on disk. Use responsibly and keep backups.
 - Some example plugins are included in `example-plugins`.
+
+## References
+- https://github.com/lauralex/bun-extractor
